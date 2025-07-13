@@ -6,6 +6,7 @@ class Helper {
 
 public class StaticCall {
     public static void main(String[] args) {
+       
         Helper.show();
     }
 }
